@@ -1,1 +1,1 @@
-# CS-684-Embedded-Systems---2018
+# Labs of Embedded Systems (CS 684) 2018
