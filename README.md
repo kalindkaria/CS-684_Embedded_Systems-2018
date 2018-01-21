@@ -1,3 +1,3 @@
-# Labs of Embedded Systems (CS 684) 2018
+# Labs of Embedded Systems Course (CS 684) 2018
 
-# https://www.cse.iitb.ac.in/~cs684/
+Link to the course: https://www.cse.iitb.ac.in/~cs684/
