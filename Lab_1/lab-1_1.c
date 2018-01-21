@@ -85,7 +85,7 @@ int main(void)
 
     //
 
-    uint8_t ui8LED = 0, cnt = 0, sw1status = 0x01, val = 0x10;
+    uint8_t ui8LED = 0, cnt = 0, sw1status = 0x01;
 
     while(1)
     {
