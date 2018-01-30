@@ -10,7 +10,7 @@
 
 * Description: This code structure will assist you in completing Lab 2 Part 1
 
-* Filename: lab-2_1.c
+* Filename: lab-2_Trial_Timer0A_Interrupt.c
 
 * Functions: setup(), config(), main()
 
